@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:navigation/router/app_routes.dart';
 import 'package:navigation/router/name_route.dart';
-import 'package:navigation/screen/home_page.dart';
 
 void main() {
   runApp(const MyApp());
